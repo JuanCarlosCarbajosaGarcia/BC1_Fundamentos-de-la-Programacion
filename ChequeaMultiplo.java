@@ -29,7 +29,6 @@ public class ChequeaMultiplo {
         }else{
             System.out.println(numover + " no es multiplo de " + multintro);
         }
-
         sc.close();
     }
 }

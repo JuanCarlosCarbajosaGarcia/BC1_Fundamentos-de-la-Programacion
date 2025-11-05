@@ -1,3 +1,5 @@
+package VSC;
+
 import java.util.Scanner;
 
 public class ChequeaMultiplo {

@@ -1,3 +1,5 @@
+package VSC;
+
 //muestra multiples datos
 public class VariablesTiposDatos {
     

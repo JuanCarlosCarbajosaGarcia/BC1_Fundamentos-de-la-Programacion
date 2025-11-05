@@ -10,4 +10,8 @@ public abstract class Vehiculo{
         this.modelo = modelo;
         this.anio = anio;
     }
+
+    public void mostrarinfo() {
+        System.out.println("Marca: " + marca + " Modelo: " + modelo + " Anio: " + anio);
+    }
 }

@@ -1,3 +1,5 @@
+package VSC;
+
 public class CuentaBancaria {
     string titular;
     double saldo;

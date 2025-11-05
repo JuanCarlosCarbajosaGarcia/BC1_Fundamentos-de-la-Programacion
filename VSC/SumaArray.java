@@ -1,3 +1,5 @@
+package VSC;
+
 public class SumaArray {
     public static void main(String[] args) {
         int[] numeros={1,2,3,43};

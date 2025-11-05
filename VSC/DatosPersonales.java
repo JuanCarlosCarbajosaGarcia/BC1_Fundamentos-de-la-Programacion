@@ -1,3 +1,5 @@
+package VSC;
+
 public class DatosPersonales {
 	public static void main(String[] args) {
 		String nombre = "Juan Carlos Carbajosa Garcia";

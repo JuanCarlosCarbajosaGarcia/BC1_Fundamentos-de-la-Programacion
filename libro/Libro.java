@@ -1,7 +1,11 @@
 package libro;
 
 public class Libro {
-    public static void main(String[] args) {
+    String titulo;
+    String autor;
+    int anio;
 
+    public static void main(String[] args) {
+        Libro libro = new Libro();
     }
 }

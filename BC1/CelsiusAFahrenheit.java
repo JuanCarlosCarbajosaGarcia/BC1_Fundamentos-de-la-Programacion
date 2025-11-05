@@ -1,4 +1,4 @@
-package VSC;//cambio de temperatura de ºC a ºF
+package BC1;//cambio de temperatura de ºC a ºF
 
 import java.util.Scanner;
 

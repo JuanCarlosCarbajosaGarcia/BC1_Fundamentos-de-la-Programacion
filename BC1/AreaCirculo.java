@@ -1,4 +1,4 @@
-package VSC;//programa que calcula el área de un circulo dado su radio
+package BC1;//programa que calcula el área de un circulo dado su radio
 
 import java.util.Scanner;
 

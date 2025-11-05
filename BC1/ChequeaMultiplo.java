@@ -1,4 +1,4 @@
-package VSC;
+package BC1;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package VSC;
+package BC1;
 
 //muestra multiples datos
 public class VariablesTiposDatos {

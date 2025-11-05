@@ -1,4 +1,4 @@
-package VSC;
+package BC1;
 
 public class DatosPersonales {
 	public static void main(String[] args) {

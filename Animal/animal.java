@@ -1,3 +1,5 @@
+package Animal;
+
 public class animal {
 
     public static class DatoAnimal{
